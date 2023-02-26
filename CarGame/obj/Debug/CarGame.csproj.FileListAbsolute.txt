@@ -1,0 +1,12 @@
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.csproj.AssemblyReference.cache
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.GameMain.resources
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.LoginForm.resources
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.Properties.Resources.resources
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.csproj.GenerateResource.cache
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\bin\Debug\CarGame.exe.config
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\bin\Debug\CarGame.exe
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\bin\Debug\CarGame.pdb
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.exe
+C:\Users\Uzivatel\Desktop\CarGame\CarGame\obj\Debug\CarGame.pdb
